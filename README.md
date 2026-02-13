@@ -11,8 +11,7 @@
 This project use free and old version on thunkable codeblock based app developing software
 the link is expired the original folder have been removed. 
 To view the project do read the files and poster about it.
-To watch the demo video please email me at
-nurdayana.aini3@gmail.com
+You can watch the demo from the demo page. 
 
 This project won second place on Fyp project thus
 I am truly sad that the platform just vanished my original work.
